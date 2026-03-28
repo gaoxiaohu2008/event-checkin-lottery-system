@@ -32,3 +32,36 @@
 1. 克隆仓库：
    ```bash
    git clone https://github.com/your-username/event-checkin-lottery-system.git
+
+2. 直接打开 index.html 文件即可使用
+## 📦 技术栈
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Canvas API（粒子效果和礼花）
+- LocalStorage（数据持久化）
+## 🎨 设计特色
+- 现代化深色主题
+- 流畅的动画效果
+- 大屏幕友好的界面
+- 直观的操作流程
+- 视觉冲击力强
+## 🔧 自定义
+### 修改颜色主题
+在 index.html 文件中修改 CSS 变量或渐变颜色值
+
+### 调整动画效果
+修改 JavaScript 中的动画参数
+
+### 扩展功能
+- 可以添加更多抽奖模式
+- 支持导入/导出签到数据
+- 添加背景音乐
+## 📄 许可证
+MIT License
+
+## 🤝 贡献
+欢迎提交 Issue 和 Pull Request！
+
+## 📞 联系
+如果有任何问题或建议，欢迎联系作者。
